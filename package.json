@@ -1,0 +1,26 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "My own react app",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CHarshithaReddy/namaste-react.git"
+  },
+  "keywords": [
+    "harshitha",
+    "react"
+  ],
+  "author": "Harshitha Reddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CHarshithaReddy/namaste-react/issues"
+  },
+  "homepage": "https://github.com/CHarshithaReddy/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}
